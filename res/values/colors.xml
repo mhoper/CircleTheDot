@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#EAEAEA</color>
+    <color name="movePaint">#C7C7C7</color>
+    <color name="blockPaint">#EE9A00</color>
+    <color name="dotPaint">#7850ED</color>
+    <color name="dotIsSurrPaint">#DD5041</color>
+    
+</resources>
